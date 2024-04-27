@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @aryantripathi456
-- 👀 I’m interested in DEVELOPMENT AND OPEN SOURCE
-- 🌱 I’m currently learning JAVA DSA
-- 💞️ I’m looking to collaborate on DEVELOPMENT PROJECTS WHICH WILL HELP TO CONTRIBUTE IN THE OPEN SOURCE COMMUNITY
+- 💞️ I’m looking to collaborate on Machine Learning and Neural Network bases
 - 📫 How to reach me- EMAIL :- tripathiaryan9876@gmail.com
 
 
